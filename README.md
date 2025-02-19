@@ -1,4 +1,4 @@
-# Active-Directory-Account-Creation-CMD-Commands
+# Overview: Lab 3 Creating Help Desk Accounts in Active Directory and Using CMD Commands
 
 Overview: Lab 3 Creating Help Desk Accounts in Active Directory and Using CMD Commands
 This section of my home lab documentation demonstrates the creation of a dedicated Help Desk account in Active Directory (AD) and managing it using command-line tools (CMD). This task highlights the practical steps involved in provisioning accounts for IT support personnel, ensuring proper permissions, and configurations, and automating the process to streamline account management. Additionally, this project focuses on the administrative tasks that a Help Desk account might handle, such as password resets and user account modifications.
@@ -139,8 +139,7 @@ For this home lab, we will create a Help Desk account with the appropriate permi
 
 Congratulations! We have successfully created the Helpdesk account using Active Directory Users and Computers and executed essential command-line tasks that are crucial in a Helpdesk environment. Great work!
 
-👉 Next Lab 4 : Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager
-
+👉 Next Lab 4 : [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](https://github.com/tobifash0/Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager)
 
 
 
